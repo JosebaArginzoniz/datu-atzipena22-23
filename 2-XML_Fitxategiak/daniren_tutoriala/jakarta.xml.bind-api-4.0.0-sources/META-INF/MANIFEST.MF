@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: Jakarta XML Binding API
+Implementation-Version: 4.0.0
+Implementation-Vendor: Eclipse Foundation
+Implementation-Build-Id: 4.0.0 - 7e887b2
+
